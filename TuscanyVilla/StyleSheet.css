@@ -1,0 +1,54 @@
+﻿body {
+    font-family: 'Roboto', sans-serif;
+}
+div.jumbotron{
+    margin-bottom:0px;
+}
+nav#navvy.navbar.navbar-static-top{
+    margin-bottom:0px;
+}
+h1.container{
+    text-align:center;
+    font-family:Roboto;
+}
+h2.container{
+    text-align:center;
+    font-family: 'Dancing Script', cursive;
+}
+.row {
+    margin-right:0px;
+    margin-left:0px;
+}
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+div.col-sm-3{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+image.images/Versilia.jpg{
+    height:400px;
+    width:400px;
+}
+footer.container-fluid{
+    background-color:darkgrey;
+}
+div.carousel-caption{
+    background-color:darkslategrey. transparent;
+}
+ul.nav navbar-nav{
+    text-align:center;
+}
+#about.a{
+    text-align:center;
+}
+#turquoise cell a {
+    background-color:aqua;
+}
+div.cell{
+    padding-top:50px;
+}
+button.btn btn-link{
+    border-color:dodgerblue;
+}
